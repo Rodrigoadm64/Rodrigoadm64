@@ -1,16 +1,15 @@
-## Hi there 👋
+## Boas vindas ao meu perfil👋
 
-<!--
-**Rodrigoadm64/Rodrigoadm64** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Rodrigo almeida
 
-Here are some ideas to get you started:
+- estou estudando no alura
+- Estou me desenvolvendo na liguagen JavaScript
+- Uso este espaço para organizar e compartilhar meus projetosa desenvolvidos
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### Você pode entrar em contato comigo 🖤
+
+  00001080749214sp@al.educacao.sp.gov.br
+
+
+
+  ![]( https://media1.tenor.com/m/xQfGQV6UX9AAAAAC/meme.gif     )
