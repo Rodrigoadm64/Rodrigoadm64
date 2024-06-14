@@ -1,6 +1,6 @@
 ## Boas vindas ao meu perfil👋
 
-Meu nome é Rodrigo almeida
+Meu nome é Rodrigo almeida de araujo
 
 - estou estudando no alura
 - Estou me desenvolvendo na liguagen JavaScript
