@@ -4,7 +4,7 @@ Meu nome é Rodrigo almeida de araujo
 
 - Estou estudando no alura
 - Estou me desenvolvendo na liguagen JavaScript
-- Uso este espaço para organizar e compartilhar meus projetosa desenvolvidos
+- Uso este espaço para organizar e compartilhar meus projetos desenvolvidos
 
   ### Você pode entrar em contato comigo 🖤
 
